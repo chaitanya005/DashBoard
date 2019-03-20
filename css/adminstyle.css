@@ -1,0 +1,27 @@
+.navbar-brand{
+    font-size: 2.5rem !important;
+}
+
+body{
+    font-size: 1.7rem !important;
+    font-family: 'Merriweather Sans', sans-serif;
+}
+
+.nav-sidebar{
+    margin: 30px ;
+}
+
+.nav-sidebar > li > a{
+    padding: 20px 20px;
+}
+
+.main{
+    margin-top: 50px;
+/*    background-color: lightgray; */
+    padding-top: 20px;
+}
+
+h1 , p{
+    text-align: center;
+}
+
